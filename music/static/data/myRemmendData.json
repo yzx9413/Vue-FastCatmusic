@@ -1,0 +1,8 @@
+{
+    "myRemmendData": [
+        { "id": 1, "tit": "某某1", "url": "banner1.jpg" },
+        { "id": 2, "tit": "某某2", "url": "banner2.jpg" },
+        { "id": 3, "tit": "某某3", "url": "banner3.jpg" },
+        { "id": 4, "tit": "某某4", "url": "banner4.jpg" }
+    ]
+}
